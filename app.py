@@ -22,5 +22,5 @@ st.video("https://www.youtube.com/watch?v=Uc12NL0HN7w&list=RDUc12NL0HN7w&start_r
 
 
 if st.button("Click here 💝"):
-    st.hearts()
+    st.balloons()
     st.success("I miss you. 💘")
